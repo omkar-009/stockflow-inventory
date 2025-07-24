@@ -4,7 +4,6 @@
 1. Debugging Approach = (#debugging-approach)
 2. Database Design = (#database-design)
 3. API Implementation = (#api-implementation)
-6. Future Improvements = (#future-improvements)
 
 ## Debugging Approach
 
@@ -73,5 +72,4 @@ erDiagram
 - Authentication using JWT
 - Role-based access control
 - Input validation and sanitization
-- Rate limiting
-- CORS configuration
+- low stock alert
