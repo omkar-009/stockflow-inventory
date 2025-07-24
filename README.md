@@ -14,13 +14,15 @@
   - **Debugging Steps**:
     1. Added detailed logging at key points
     2. Used Node.js debugger for step-through execution
-    3. Identified missing error boundaries
+    3. Product-Warehouse Relationship Misunderstood
+    4. Price is assumed to be numeric
+    5. No Error Handling
 
 - **Problem**: Data validation gaps
   - **Symptoms**: Inconsistent data in database
   - **Debugging Steps**:
-    1. Analyzed error patterns in logs
-    2. Reproduced issues with test cases
+    1. No input validation
+    2. SKU Uniqueness Not Enforced
     3. Traced data flow through the application
 
 ### 2. Solution Implementation
